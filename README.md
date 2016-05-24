@@ -27,7 +27,7 @@ Time spent: `<5>`
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/tKBHmEw.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/tKBHmEw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
